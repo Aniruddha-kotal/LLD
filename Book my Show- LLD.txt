@@ -1,0 +1,35 @@
+# Book my show - LLD
+
+1. Users/Actors : -
+  - Customers/viewers
+  - Theatre Owners/Event Managers
+  - Systems
+ 
+2. Sequence as per the actors : -
+
+  A. Customers/viewers-
+    - Select Location.
+    - Select the type of Entertainment - In this case, movies.
+    - View the on-going movies.
+    - Select the movies and able to view ratings, votes and all other information (show timings, languages available,etc).
+    - Able to select the language and available seat.
+    - Book the ticket.
+    - Payment
+    - Recieve the receipt in Email and whatsapp with the QR code.
+    - Able to add ratings and commments.
+    
+  B. Theatre Owner/Event Managers -
+    - List the on going movies/events in the application.
+    - Provide the show timings and other details.
+    - Seat availability.
+    - Ticket checking through a QR scanner.
+    
+  C. System -
+    - List the location wise theatres and events in the application.
+    - Recommend the movies/events to the users.
+    - Send notifications to users.
+    - Provide support to the users.
+    
+    BLACKBOX-
+    - Registration
+    - Login
